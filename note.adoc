@@ -31,6 +31,7 @@
   git commit -m "Init repo"
 
 7. 将代码推送到远程仓库的 master （主）分支
+（前提将项目的.md文件下载到电脑 用 $ git pull --rebase origin master 指令实现）
   
   git push -u origin master
 
